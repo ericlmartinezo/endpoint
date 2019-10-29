@@ -1,2 +1,2 @@
 # endpoint
-For POST testing
+Making HTTP POST request with Swift
